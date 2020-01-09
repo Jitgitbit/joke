@@ -1,0 +1,1 @@
+console.log("I want to die peacefully in my sleep like my grandfather");
